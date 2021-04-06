@@ -1,0 +1,6 @@
+var logger = require("./logger");
+
+logger.log("message");
+console.log(logger);
+
+#using the require to load the module 
